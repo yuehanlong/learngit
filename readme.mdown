@@ -2,4 +2,9 @@
 * Git is a distributed version control system.
 * Git is free software.
 ## test git
+options:
+> $ git add "file name" //添加文件
+> $ git commit -m "info for change" //提交并备注
+> $ git status //查看仓库状态
+> $ git diff //查看上次提交的修改内容
 ## learn git add
