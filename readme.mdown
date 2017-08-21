@@ -9,3 +9,4 @@ options:
 * $ git diff //查看上次提交的修改内容
 ## learn git add
 * Git has a mutable index called stage.
+* add more
