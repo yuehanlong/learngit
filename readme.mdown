@@ -11,6 +11,6 @@ Options:
 * Git has a mutable index called stage.
 * add more
 ## Origin
-* $ git remote add origin git@github.com:account/learngit.git
-* $ git push -u origin master
-* $ git push origin master
+* $ git remote add origin git@github.com:account/learngit.git // 关联一个远程库
+* $ git push -u origin master // 第一次推送master分支的所有内容
+* $ git push origin master // 推送最新修改
