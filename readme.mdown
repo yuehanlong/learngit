@@ -32,3 +32,4 @@ Creating a new branch is quick and simple.
 * $ git stash apply // 恢复冻结内容
 * $ git stash drop // 删除stash
 * $ git stash pop // 回复冻结内容且删除stash
+## 多人协作
