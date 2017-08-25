@@ -1,6 +1,6 @@
 # ReadMe
 * Git is a distributed version control system.
-* Git is free software.
+* Git is a free software.
 ## test git
 Options:
 * $ git add "file name" //添加文件
